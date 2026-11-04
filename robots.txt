@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sumanth-lachannagari.github.io/-lpv-sumanth-portfolio/sitemap.xml
